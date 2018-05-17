@@ -111,5 +111,5 @@ plt.plot(error_validacion)
 plt.xlabel("Epoch")
 plt.ylabel("Error")
 plt.title("Error de validación")
-
+#plt.savefig("prueba6.png")
 plt.show()
